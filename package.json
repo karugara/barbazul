@@ -1,0 +1,28 @@
+{
+  "name": "barbazul",
+  "version": "1.0.0",
+  "description": "es un proyecto para piratear al mundo",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.php"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karugara/barbazul.git"
+  },
+  "keywords": [
+    "barba",
+    "piratas",
+    "consejos"
+  ],
+  "author": "Jolly Roger",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karugara/barbazul/issues"
+  },
+  "homepage": "https://github.com/karugara/barbazul#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^4.0.0"
+  }
+}
